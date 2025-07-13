@@ -61,7 +61,7 @@ As imagens abaixo apresentam alguns dos gráficos e visualizações criados:
 
 ## 📁 Arquivo principal
 
-<a href="https://www.example.com" target="_blank">**Planilha_Bem-Estar_Funcionarios.xlsx**</a>: contém os dados brutos, análises, gráficos e dashboards completos
+<a href="https://github.com/JanisMalkiewiez/analise-bem-estar-funcionarios/blob/main/Projeto%20Bem-Estar%20Funcionarios%20-%20Excel/Planilha/Planilha_Bem-Estar_Funcionarios.xlsx" target="_blank">**Planilha_Bem-Estar_Funcionarios.xlsx**</a>: contém os dados brutos, análises, gráficos e dashboards completos
 
 ---
 
