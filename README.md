@@ -5,7 +5,7 @@ Este é o meu **primeiro projeto em Análise de Dados**, que foi criado do zero 
   
 A proposta foi analisar indicadores de bem-estar dentro de uma organização, utilizando Excel como principal ferramenta de visualização e exploração dos dados.
 
-A base contém informações de 100 funcionários avaliados em quatro dimensões principais:
+A base contém informações de 100 funcionários avaliados em seis dimensões principais:
 
 - **Estresse**
 - **Qualidade do Sono**
